@@ -1,0 +1,48 @@
+/* #b22222, #ddd, and #fff. */
+.container {
+    margin: 50px;
+    font-family: sans-serif;
+}
+
+h1 {
+    color: #b22222;
+    margin-bottom: 0;
+}
+
+table {
+    box-shadow: 0 20px 20px rgba(0,0,0,0.15), 0 6px 6px rgba(0,0,0,0.14);
+}
+
+h1, th {
+    font-weight: 400;
+}
+
+th, tr {
+    height: 60px;
+    width: 250px;
+}
+
+th {
+    background: #b22222;
+    color: #ddd;
+    padding-left: 30px;
+}
+
+tr {
+    border: 1px solid #D3D3D3;
+}
+
+.time {
+    background: #ddd;
+    padding-left: 30px;
+}
+
+.column {
+    text-align: right;
+    padding-right: 30px;
+
+}
+
+.text {
+    font-weight: 600;
+}
